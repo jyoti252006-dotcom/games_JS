@@ -4,7 +4,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here after deployment)
+https://github.com/jyoti252006-dotcom/games_JS.git
 
 ---
 
